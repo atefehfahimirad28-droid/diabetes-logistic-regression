@@ -1,0 +1,5 @@
+{
+  "powerquery.client.additionalSymbolsDirectories": [
+    "/home/dci-student/diabetes-logistic-regression/.vscode/excel-pq-symbols"
+  ]
+}
